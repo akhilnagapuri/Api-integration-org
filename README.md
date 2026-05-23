@@ -1,4 +1,4 @@
-# Api-integration-org
+# Api-integration-for weather prediction
 developing a webpage that fetches and displays data from a public api like weather
 
 output 
